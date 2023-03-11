@@ -1,0 +1,13 @@
+{
+  "name": "version-store-backend-js",
+  "version": "1.0.0",
+  "description": "Version Store Dummy Backend in NodeJS",
+  "main": "index.js",
+  "author": "Pascal Chatterjee & ChatGPT3",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}
