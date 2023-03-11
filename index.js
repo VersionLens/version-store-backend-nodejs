@@ -49,7 +49,12 @@ const products = [
     "name": "Sweatshirt",
     "price": 50,
     "image": {
-      "url": "/Hanging_Pocket_Pullover_Black_Hoodie_Mockup.jpg"
+      "height": 1025,
+      "name": "Hanging_Pocket_Pullover_Black_Hoodie_Mockup.jpg",
+      "path": "/Hanging_Pocket_Pullover_Black_Hoodie_Mockup.jpg",
+      "size": 266333,
+      "url": "/Hanging_Pocket_Pullover_Black_Hoodie_Mockup.jpg",
+      "width": 771
     }
   },
   {
@@ -57,7 +62,12 @@ const products = [
     "name": "T-shirt",
     "price": 40,
     "image": {
-      "url": "/Woman_T-shirt_Mockup.jpg"
+      "height": 894,
+      "name": "Woman_T-shirt_Mockup.jpg",
+      "path": "/Woman_T-shirt_Mockup.jpg",
+      "size": 156864,
+      "url": "/Woman_T-shirt_Mockup.jpg",
+      "width": 687
     }
   },
   {
@@ -65,7 +75,12 @@ const products = [
     "name": "Cap",
     "price": 30,
     "image": {
-      "url": "/Snapback_Cap_Mockup.jpg"
+      "height": 330,
+      "name": "Snapback_Cap_Mockup.jpg",
+      "path": "/Snapback_Cap_Mockup.jpg",
+      "size": 94434,
+      "url": "/Snapback_Cap_Mockup.jpg",
+      "width": 559
     }
   },
   {
@@ -73,7 +88,12 @@ const products = [
     "name": "Tote Bag",
     "price": 30,
     "image": {
-      "url": "/Tote_Bag_Mockup.jpg"
+      "height": 528,
+      "name": "Tote_Bag_Mockup.jpg",
+      "path": "/Tote_Bag_Mockup.jpg",
+      "size": 255791,
+      "url": "/Tote_Bag_Mockup.jpg",
+      "width": 928
     }
   },
   {
@@ -81,7 +101,12 @@ const products = [
     "name": "Slippers",
     "price": 25,
     "image": {
-      "url": "/Slip-On_Shoe_Mockup.jpg"
+      "height": 224,
+      "name": "Slip-On_Shoe_Mockup.jpg",
+      "path": "/Slip-On_Shoe_Mockup.jpg",
+      "size": 111371,
+      "url": "/Slip-On_Shoe_Mockup.jpg",
+      "width": 742
     }
   },
   {
@@ -89,7 +114,12 @@ const products = [
     "name": "Flip Flops",
     "price": 15,
     "image": {
-      "url": "/Flip_Flops_Left.jpg"
+      "height": 559,
+      "name": "Flip_Flops_Left.jpg",
+      "path": "/Flip_Flops_Left.jpg",
+      "size": 79771,
+      "url": "/Flip_Flops_Left.jpg",
+      "width": 235
     }
   },
   {
@@ -97,7 +127,12 @@ const products = [
     "name": "Coffee Beans",
     "price": 10,
     "image": {
-      "url": "/Stand_Up_Pouch_Bag_Mockup.jpg"
+      "height": 893,
+      "name": "Stand_Up_Pouch_Bag_Mockup.jpg",
+      "path": "/Stand_Up_Pouch_Bag_Mockup.jpg",
+      "size": 476727,
+      "url": "/Stand_Up_Pouch_Bag_Mockup.jpg",
+      "width": 590
     }
   },
   {
@@ -105,7 +140,12 @@ const products = [
     "name": "Notebook",
     "price": 5,
     "image": {
-      "url": "/Kraft_Notebook.jpg"
+      "height": 683,
+      "name": "Kraft_Notebook.jpg",
+      "path": "/Kraft_Notebook.jpg",
+      "size": 388111,
+      "url": "/Kraft_Notebook.jpg",
+      "width": 809
     }
   },
   {
@@ -113,7 +153,12 @@ const products = [
     "name": "Soap",
     "price": 8,
     "image": {
-      "url": "/Soap_dyihGkE.jpg"
+      "height": 232,
+      "name": "Soap_dyihGkE.jpg",
+      "path": "/Soap_dyihGkE.jpg",
+      "size": 76363,
+      "url": "/Soap_dyihGkE.jpg",
+      "width": 700
     }
   },
   {
@@ -121,7 +166,12 @@ const products = [
     "name": "Grinder",
     "price": 25,
     "image": {
-      "url": "/White_Grinder_CaGGkhu.jpg"
+      "height": 1024,
+      "name": "White_Grinder_CaGGkhu.jpg",
+      "path": "/White_Grinder_CaGGkhu.jpg",
+      "size": 147103,
+      "url": "/White_Grinder_CaGGkhu.jpg",
+      "width": 1361
     }
   },
   {
@@ -129,7 +179,12 @@ const products = [
     "name": "Glass Pump",
     "price": 15,
     "image": {
-      "url": "/Amber_Glass_Pump_Bottle_VhkzU7T.jpg"
+      "height": 1024,
+      "name": "Amber_Glass_Pump_Bottle_VhkzU7T.jpg",
+      "path": "/Amber_Glass_Pump_Bottle_VhkzU7T.jpg",
+      "size": 225578,
+      "url": "/Amber_Glass_Pump_Bottle_VhkzU7T.jpg",
+      "width": 521
     }
   },
   {
@@ -137,7 +192,12 @@ const products = [
     "name": "Microphone",
     "price": 250,
     "image": {
-      "url": "/Microphone_Without_Sponge_and_Cable_Q6KOyXd.jpg"
+      "height": 1024,
+      "name": "Microphone_Without_Sponge_and_Cable_Q6KOyXd.jpg",
+      "path": "/Microphone_Without_Sponge_and_Cable_Q6KOyXd.jpg",
+      "size": 256319,
+      "url": "/Microphone_Without_Sponge_and_Cable_Q6KOyXd.jpg",
+      "width": 490
     }
   }
 ];
